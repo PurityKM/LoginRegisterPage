@@ -1,1 +1,1 @@
-# LoginRegisterPage
+# This is a Login and register page
